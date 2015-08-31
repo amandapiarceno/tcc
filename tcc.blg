@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tcc.aux
+The style file: abnt-num.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: abnt-options.bib
+Database file #2: tcc.bib
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliografico abnt-num.bst versao 1.50           |
+| Implementa a NBR6023, NBR10520 e NBR10523               |
+| Em caso de duvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 50 entries,
+            6522 wiz_defined-function locations,
+            1378 strings with 15490 characters,
+and the built_in function-call counts, 33407 in all, are:
+= -- 2940
+> -- 735
+< -- 27
++ -- 400
+- -- 232
+* -- 2041
+:= -- 4376
+add.period$ -- 158
+call.type$ -- 51
+change.case$ -- 372
+chr.to.int$ -- 68
+cite$ -- 49
+duplicate$ -- 1701
+empty$ -- 2849
+format.name$ -- 1172
+if$ -- 8209
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 902
+newline$ -- 244
+num.names$ -- 172
+pop$ -- 1216
+preamble$ -- 1
+purify$ -- 165
+quote$ -- 0
+skip$ -- 2321
+stack$ -- 1
+substring$ -- 1343
+swap$ -- 712
+text.length$ -- 21
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 59
+warning$ -- 0
+while$ -- 248
+width$ -- 0
+write$ -- 622
