@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.11)  20 AUG 2015 20:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  6 SEP 2015 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -844,7 +844,7 @@ Package pdftex.def Info: mvo.png used on input line 842.
 [39] (./tcc.aux) ) 
 Here is how much of TeX's memory you used:
  5566 strings out of 495004
- 76476 string characters out of 6180662
+ 76476 string characters out of 6180663
  146150 words of memory out of 5000000
  8606 multiletter control sequences out of 15000+600000
  44787 words of font info for 94 fonts, out of 8000000 for 9000
