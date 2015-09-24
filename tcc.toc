@@ -1,20 +1,23 @@
 \select@language {brazil}
-\contentsline {chapter}{\numberline {1}O Educando Surdo}{5}
-\contentsline {chapter}{\numberline {2}Hist\IeC {\'o}ria da educa\IeC {\c c}\IeC {\~a}o de surdos}{8}
-\contentsline {section}{\numberline {2.1}Filosofias educacionais}{10}
-\contentsline {subsection}{\numberline {2.1.1}Oralismo}{10}
-\contentsline {subsection}{\numberline {2.1.2}Comunica\IeC {\c c}\IeC {\~a}o total}{12}
-\contentsline {subsection}{\numberline {2.1.3}Bilinguismo}{13}
-\contentsline {chapter}{\numberline {3}Pol\IeC {\'\i }tica Nacional de Inclus\IeC {\~a}o}{15}
-\contentsline {chapter}{\numberline {4}O ensino e a aprendizagem de Matem\IeC {\'a}tica}{19}
-\contentsline {chapter}{\numberline {5}O ensino e a aprendizagem de Matem\IeC {\'a}tica na educa\IeC {\c c}\IeC {\~a}o de alunos surdos}{24}
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{26}
-\contentsline {chapter}{Anexos}{29}
-\contentsline {chapter}{A1 - A surdez}{30}
-\contentsline {section}{\numberline {5.1}Aspectos da surdez}{30}
-\contentsline {subsection}{\numberline {5.1.1}Quando ocorreu}{30}
-\contentsline {subsection}{\numberline {5.1.2}Causas}{30}
-\contentsline {subsection}{\numberline {5.1.3}Tipos}{31}
-\contentsline {subsection}{\numberline {5.1.4}Grau}{34}
-\contentsline {chapter}{A2 - O som e a estrutura do ouvido humano}{36}
-\contentsline {chapter}{A3 - Audiometria}{38}
+\contentsline {chapter}{Agradecimentos}{5}
+\contentsline {chapter}{Resumo}{6}
+\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{7}
+\contentsline {chapter}{\numberline {1}O Educando Surdo}{9}
+\contentsline {chapter}{\numberline {2}Hist\IeC {\'o}ria da educa\IeC {\c c}\IeC {\~a}o de surdos}{12}
+\contentsline {section}{\numberline {2.1}Filosofias educacionais}{14}
+\contentsline {subsection}{\numberline {2.1.1}Oralismo}{14}
+\contentsline {subsection}{\numberline {2.1.2}Comunica\IeC {\c c}\IeC {\~a}o total}{15}
+\contentsline {subsection}{\numberline {2.1.3}Bilinguismo}{16}
+\contentsline {chapter}{\numberline {3}Pol\IeC {\'\i }tica Nacional de Inclus\IeC {\~a}o}{19}
+\contentsline {chapter}{\numberline {4}O ensino e a aprendizagem de Matem\IeC {\'a}tica}{23}
+\contentsline {chapter}{\numberline {5}O ensino e a aprendizagem de Matem\IeC {\'a}tica na educa\IeC {\c c}\IeC {\~a}o de alunos surdos}{28}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{30}
+\contentsline {chapter}{Anexos}{33}
+\contentsline {chapter}{A1 - A surdez}{34}
+\contentsline {section}{\numberline {5.1}Aspectos da surdez}{34}
+\contentsline {subsection}{\numberline {5.1.1}Quando ocorreu}{34}
+\contentsline {subsection}{\numberline {5.1.2}Causas}{34}
+\contentsline {subsection}{\numberline {5.1.3}Tipos}{35}
+\contentsline {subsection}{\numberline {5.1.4}Grau}{38}
+\contentsline {chapter}{A2 - O som e a estrutura do ouvido humano}{40}
+\contentsline {chapter}{A3 - Audiometria}{42}
