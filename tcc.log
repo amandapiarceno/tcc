@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  26 OCT 2015 20:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  16 NOV 2015 20:19
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**tcc.tex
+**tcc
 (./tcc.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 3 languages loaded.
@@ -634,50 +633,60 @@ e
 ))
 \c@lstlisting=\count130
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 23
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 24
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 23
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 24
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 23
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 24
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 23
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 24
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 24.
  [0
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1] [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 2726) in paragraph at lines 25--25
+[]\OT1/ptm/m/n/12 Trabalho de Con-clus[]ao de Curso apre-sen-
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 25--25
+\OT1/ptm/m/n/12 De-par-ta-mento de Ma-tem[]atica do Cen-tro de
+ []
+
+[1] [2
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 38.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 39.
  (./tcc.toc
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 2.
@@ -695,7 +704,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 
 
 ]
-Overfull \hbox (9.91606pt too wide) in paragraph at lines 65--69
+Overfull \hbox (9.91606pt too wide) in paragraph at lines 81--85
 []\OT1/ptm/m/n/10.95 Em 1880, no Con-gresso Mun-dial de Pro-fes-so-res de Sur-d
 os (Mil[]ao-It[]alia) chegou-
  []
@@ -707,19 +716,23 @@ Cap\'{\i }tulo 1.
 [10
 
 ] [11]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 167.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 186.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 167.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 167.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 186.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 167.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 167.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 186.
  [12]
 [13]
 Cap\'{\i }tulo 2.
@@ -733,129 +746,136 @@ Cap\'{\i }tulo 3.
 Cap\'{\i }tulo 4.
 [20
 
-] [21]
-Overfull \hbox (8.86108pt too wide) in paragraph at lines 387--389
+] [21] <am.png, id=77, 501.875pt x 376.40625pt>
+File: am.png Graphic file (type png)
+ <use am.png>
+Package pdftex.def Info: am.png used on input line 401.
+(pdftex.def)             Requested size: 369.88582pt x 277.42776pt.
+ [22 <./am.png>]
+Overfull \hbox (8.86108pt too wide) in paragraph at lines 414--416
 []\OT1/ptm/m/n/12 Em 1970, come[]aram a sur-gir pro-ble-mas com rela[][]ao a fi
 -lo-so-fia edu-ca-ci-o-nal da \OT1/ptm/m/it/12 Comunica[][]ao
  []
 
 
-Overfull \hbox (16.04773pt too wide) in paragraph at lines 393--395
+Overfull \hbox (16.04773pt too wide) in paragraph at lines 421--423
 \OT1/ptm/m/n/10.95 quando da regulamenta[][]ao da L[]^^Pngua Bra-si-leira de Si
 -nais { Li-bras e do lan[]amento
  []
 
-[22] [23]
+[23] [24]
 Cap\'{\i }tulo 5.
-[24
+[25
 
 ]
-Overfull \hbox (3.20616pt too wide) in paragraph at lines 459--462
+Overfull \hbox (3.20616pt too wide) in paragraph at lines 487--490
 []\OT1/ptm/m/n/12 Segundo o de-creto 5626/05 da Lei n$[]$ 10.436/02, a presen[]
 a do int[]erprete de LI-BRAS/L[]^^Pngua
  []
 
-[25]
+[26]
 Cap\'{\i }tulo 6.
-[26
+[27
 
-] [27]
-Overfull \hbox (0.20831pt too wide) in paragraph at lines 527--532
+] [28]
+Overfull \hbox (0.20831pt too wide) in paragraph at lines 555--560
 []\OT1/ptm/m/n/12 Na ma-tem[]atica, os m[]etodos de en-sino fo-ram for-te-mente
  in-flu-en-ci-a-dos pela \OT1/ptm/m/it/12 Et-no-ma-tem[]atica\OT1/ptm/m/n/12 ,
  []
 
-[28] [29] [30]
-Overfull \hbox (2.17346pt too wide) in paragraph at lines 602--605
+[29] [30] [31]
+Overfull \hbox (2.17346pt too wide) in paragraph at lines 630--633
 \OT1/ptm/m/n/10.95 ci-mento mais am-plo so-bre as re-ais ne-ces-si-da-des de se
 us alu-nos, impulsionando-
  []
 
-[31]
-Overfull \hbox (15.1607pt too wide) in paragraph at lines 621--623
+[32]
+Overfull \hbox (15.1607pt too wide) in paragraph at lines 649--652
 []\OT1/ptm/m/n/12 Apesar de, ainda hoje, exis-ti-rem de-fen-so-res da ora-li-da
 de, so-bre-tudo no meio es-co-lar, considera-
  []
 
-(./tcc.bbl [32] [33
+[33] [34] [35
 
-] [34] [35]) [36] [37
+] (./tcc.bbl [36] [37
+
+] [38] [39]) [40] [41
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 696.
- [38
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 791.
+ [42
 
 ]
-<pac.png, id=133, 212.795pt x 151.56625pt>
+<pac.png, id=147, 212.795pt x 151.56625pt>
 File: pac.png Graphic file (type png)
  <use pac.png>
-Package pdftex.def Info: pac.png used on input line 746.
+Package pdftex.def Info: pac.png used on input line 841.
 (pdftex.def)             Requested size: 128.0374pt x 91.20178pt.
- [39 <./pac.png>]
-<pan.png, id=137, 212.795pt x 153.57375pt>
+ [43 <./pac.png>]
+<pan.png, id=151, 212.795pt x 153.57375pt>
 File: pan.png Graphic file (type png)
  <use pan.png>
-Package pdftex.def Info: pan.png used on input line 758.
+Package pdftex.def Info: pan.png used on input line 853.
 (pdftex.def)             Requested size: 128.0374pt x 92.40974pt.
 
-<pam.png, id=138, 215.80624pt x 150.5625pt>
+<pam.png, id=152, 215.80624pt x 150.5625pt>
 File: pam.png Graphic file (type png)
  <use pam.png>
-Package pdftex.def Info: pam.png used on input line 770.
+Package pdftex.def Info: pam.png used on input line 865.
 (pdftex.def)             Requested size: 128.0374pt x 89.33192pt.
- [40 <./pan.png> <./pam.png>] <panp.png, id=142, 212.795pt x 152.57pt>
+ [44 <./pan.png> <./pam.png>] <panp.png, id=156, 212.795pt x 152.57pt>
 File: panp.png Graphic file (type png)
  <use panp.png>
-Package pdftex.def Info: panp.png used on input line 780.
+Package pdftex.def Info: panp.png used on input line 875.
 (pdftex.def)             Requested size: 128.0374pt x 91.80577pt.
 
-<pace.png, id=143, 549.05125pt x 546.04pt>
+<pace.png, id=157, 549.05125pt x 546.04pt>
 File: pace.png Graphic file (type png)
  <use pace.png>
-Package pdftex.def Info: pace.png used on input line 792.
+Package pdftex.def Info: pace.png used on input line 887.
 (pdftex.def)             Requested size: 142.26378pt x 141.4838pt.
- [41 <./panp.png> <./pace.png>] [42] [43] <aa.png, id=154, 499.8675pt x 416.556
+ [45 <./panp.png> <./pace.png>] [46] [47] <aa.png, id=167, 499.8675pt x 416.556
 24pt>
 File: aa.png Graphic file (type png)
  <use aa.png>
-Package pdftex.def Info: aa.png used on input line 850.
+Package pdftex.def Info: aa.png used on input line 945.
 (pdftex.def)             Requested size: 165.02597pt x 137.52118pt.
 
-<aa2.png, id=155, 752.8125pt x 401.5pt>
+<aa2.png, id=168, 752.8125pt x 401.5pt>
 File: aa2.png Graphic file (type png)
  <use aa2.png>
-Package pdftex.def Info: aa2.png used on input line 860.
+Package pdftex.def Info: aa2.png used on input line 955.
 (pdftex.def)             Requested size: 270.30118pt x 144.16617pt.
- [44
+ [48
 
- <./aa.png>] [45 <./aa2.png>] <ava.png, id=162, 531.9875pt x 283.0575pt>
+ <./aa.png>] [49 <./aa2.png>] <ava.png, id=176, 531.9875pt x 283.0575pt>
 File: ava.png Graphic file (type png)
  <use ava.png>
-Package pdftex.def Info: ava.png used on input line 900.
+Package pdftex.def Info: ava.png used on input line 995.
 (pdftex.def)             Requested size: 184.9429pt x 98.40213pt.
 
-<mvo.png, id=163, 792.9625pt x 301.125pt>
+<mvo.png, id=177, 792.9625pt x 301.125pt>
 File: mvo.png Graphic file (type png)
  <use mvo.png>
-Package pdftex.def Info: mvo.png used on input line 909.
+Package pdftex.def Info: mvo.png used on input line 1004.
 (pdftex.def)             Requested size: 270.30118pt x 102.64763pt.
- [46
+ [50
 
  <./ava.png> <./mvo.png>]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-[47] (./tcc.aux) ) 
+[51] (./tcc.aux) ) 
 Here is how much of TeX's memory you used:
- 5584 strings out of 495004
- 76716 string characters out of 6180663
- 146235 words of memory out of 5000000
- 8624 multiletter control sequences out of 15000+600000
- 44787 words of font info for 94 fonts, out of 8000000 for 9000
+ 5639 strings out of 495004
+ 77371 string characters out of 6180663
+ 146428 words of memory out of 5000000
+ 8676 multiletter control sequences out of 15000+600000
+ 54193 words of font info for 114 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 38i,8n,41p,276b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,41p,272b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
@@ -864,10 +884,10 @@ texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
 mes/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on tcc.pdf (48 pages, 2646761 bytes).
+Output written on tcc.pdf (52 pages, 2693517 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
+ 212 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
