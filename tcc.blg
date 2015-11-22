@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tcc.aux
-The style file: abnt-num.bst
+The style file: abnt-alf.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -18,49 +18,49 @@ Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
-| Estilo bibliografico abnt-num.bst versao 1.50           |
+| Estilo bibliografico abnt-alf.bst versao 1.53           |
 | Implementa a NBR6023, NBR10520 e NBR10523               |
 | Em caso de duvidas ou problemas com este estilo procure |
 | http://abntex.codigolivre.org.br                        |
 +---------------------------------------------------------+
-You've used 57 entries,
+You've used 46 entries,
             6522 wiz_defined-function locations,
-            1412 strings with 16635 characters,
-and the built_in function-call counts, 37824 in all, are:
-= -- 3253
-> -- 861
+            1375 strings with 15959 characters,
+and the built_in function-call counts, 33399 in all, are:
+= -- 2630
+> -- 970
 < -- 29
-+ -- 447
-- -- 272
-* -- 2345
-:= -- 4968
-add.period$ -- 179
-call.type$ -- 58
-change.case$ -- 429
-chr.to.int$ -- 75
-cite$ -- 56
-duplicate$ -- 1943
-empty$ -- 3200
-format.name$ -- 1375
-if$ -- 9226
-int.to.chr$ -- 0
++ -- 392
+- -- 307
+* -- 2248
+:= -- 4591
+add.period$ -- 148
+call.type$ -- 47
+change.case$ -- 360
+chr.to.int$ -- 63
+cite$ -- 44
+duplicate$ -- 1715
+empty$ -- 2853
+format.name$ -- 1431
+if$ -- 7953
+int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 1026
-newline$ -- 283
-num.names$ -- 200
-pop$ -- 1365
+missing$ -- 839
+newline$ -- 223
+num.names$ -- 220
+pop$ -- 1081
 preamble$ -- 1
-purify$ -- 189
+purify$ -- 156
 quote$ -- 0
-skip$ -- 2570
+skip$ -- 1836
 stack$ -- 1
-substring$ -- 1552
-swap$ -- 828
+substring$ -- 1557
+swap$ -- 711
 text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 71
+type$ -- 18
 warning$ -- 0
-while$ -- 287
+while$ -- 284
 width$ -- 0
-write$ -- 712
+write$ -- 667
