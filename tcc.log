@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  23 NOV 2015 01:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  23 NOV 2015 02:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -802,30 +802,30 @@ Anexo A.
 ] <pac.png, id=143, 212.795pt x 151.56625pt>
 File: pac.png Graphic file (type png)
  <use pac.png>
-Package pdftex.def Info: pac.png used on input line 884.
+Package pdftex.def Info: pac.png used on input line 885.
 (pdftex.def)             Requested size: 128.0374pt x 91.20178pt.
  [42]
 <pan.png, id=148, 212.795pt x 153.57375pt>
 File: pan.png Graphic file (type png)
  <use pan.png>
-Package pdftex.def Info: pan.png used on input line 897.
+Package pdftex.def Info: pan.png used on input line 898.
 (pdftex.def)             Requested size: 128.0374pt x 92.40974pt.
 
 <pam.png, id=149, 215.80624pt x 150.5625pt>
 File: pam.png Graphic file (type png)
  <use pam.png>
-Package pdftex.def Info: pam.png used on input line 910.
+Package pdftex.def Info: pam.png used on input line 911.
 (pdftex.def)             Requested size: 128.0374pt x 89.33192pt.
  [43 <./pac.png> <./pan.png>] <panp.png, id=153, 212.795pt x 152.57pt>
 File: panp.png Graphic file (type png)
  <use panp.png>
-Package pdftex.def Info: panp.png used on input line 921.
+Package pdftex.def Info: panp.png used on input line 922.
 (pdftex.def)             Requested size: 128.0374pt x 91.80577pt.
 
 <pace.png, id=154, 549.05125pt x 546.04pt>
 File: pace.png Graphic file (type png)
  <use pace.png>
-Package pdftex.def Info: pace.png used on input line 934.
+Package pdftex.def Info: pace.png used on input line 935.
 (pdftex.def)             Requested size: 142.26378pt x 141.4838pt.
 
 
@@ -836,13 +836,13 @@ Anexo B.
 <aa.png, id=164, 499.8675pt x 416.55624pt>
 File: aa.png Graphic file (type png)
  <use aa.png>
-Package pdftex.def Info: aa.png used on input line 992.
+Package pdftex.def Info: aa.png used on input line 993.
 (pdftex.def)             Requested size: 165.02597pt x 137.52118pt.
 
 <aa2.png, id=165, 752.8125pt x 401.5pt>
 File: aa2.png Graphic file (type png)
  <use aa2.png>
-Package pdftex.def Info: aa2.png used on input line 1003.
+Package pdftex.def Info: aa2.png used on input line 1004.
 (pdftex.def)             Requested size: 270.30118pt x 144.16617pt.
  [47
 
@@ -851,13 +851,13 @@ Anexo C.
 <ava.png, id=176, 531.9875pt x 283.0575pt>
 File: ava.png Graphic file (type png)
  <use ava.png>
-Package pdftex.def Info: ava.png used on input line 1044.
+Package pdftex.def Info: ava.png used on input line 1045.
 (pdftex.def)             Requested size: 227.62204pt x 121.11198pt.
 
 <mvo.png, id=177, 792.9625pt x 301.125pt>
 File: mvo.png Graphic file (type png)
  <use mvo.png>
-Package pdftex.def Info: mvo.png used on input line 1054.
+Package pdftex.def Info: mvo.png used on input line 1055.
 (pdftex.def)             Requested size: 312.9803pt x 118.85347pt.
 
 +-------------------------------------------------------------------+
@@ -883,7 +883,7 @@ nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 re/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on tcc.pdf (52 pages, 2687281 bytes).
+Output written on tcc.pdf (52 pages, 2687621 bytes).
 PDF statistics:
  212 PDF objects out of 1000 (max. 8388607)
  139 compressed objects within 2 object streams
