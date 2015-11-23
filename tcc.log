@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  23 NOV 2015 01:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  23 NOV 2015 01:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -802,30 +802,30 @@ Anexo A.
 ] <pac.png, id=143, 212.795pt x 151.56625pt>
 File: pac.png Graphic file (type png)
  <use pac.png>
-Package pdftex.def Info: pac.png used on input line 893.
+Package pdftex.def Info: pac.png used on input line 884.
 (pdftex.def)             Requested size: 128.0374pt x 91.20178pt.
  [42]
 <pan.png, id=148, 212.795pt x 153.57375pt>
 File: pan.png Graphic file (type png)
  <use pan.png>
-Package pdftex.def Info: pan.png used on input line 906.
+Package pdftex.def Info: pan.png used on input line 897.
 (pdftex.def)             Requested size: 128.0374pt x 92.40974pt.
 
 <pam.png, id=149, 215.80624pt x 150.5625pt>
 File: pam.png Graphic file (type png)
  <use pam.png>
-Package pdftex.def Info: pam.png used on input line 919.
+Package pdftex.def Info: pam.png used on input line 910.
 (pdftex.def)             Requested size: 128.0374pt x 89.33192pt.
  [43 <./pac.png> <./pan.png>] <panp.png, id=153, 212.795pt x 152.57pt>
 File: panp.png Graphic file (type png)
  <use panp.png>
-Package pdftex.def Info: panp.png used on input line 930.
+Package pdftex.def Info: panp.png used on input line 921.
 (pdftex.def)             Requested size: 128.0374pt x 91.80577pt.
 
 <pace.png, id=154, 549.05125pt x 546.04pt>
 File: pace.png Graphic file (type png)
  <use pace.png>
-Package pdftex.def Info: pace.png used on input line 943.
+Package pdftex.def Info: pace.png used on input line 934.
 (pdftex.def)             Requested size: 142.26378pt x 141.4838pt.
 
 
@@ -836,13 +836,13 @@ Anexo B.
 <aa.png, id=164, 499.8675pt x 416.55624pt>
 File: aa.png Graphic file (type png)
  <use aa.png>
-Package pdftex.def Info: aa.png used on input line 1001.
+Package pdftex.def Info: aa.png used on input line 992.
 (pdftex.def)             Requested size: 165.02597pt x 137.52118pt.
 
 <aa2.png, id=165, 752.8125pt x 401.5pt>
 File: aa2.png Graphic file (type png)
  <use aa2.png>
-Package pdftex.def Info: aa2.png used on input line 1012.
+Package pdftex.def Info: aa2.png used on input line 1003.
 (pdftex.def)             Requested size: 270.30118pt x 144.16617pt.
  [47
 
@@ -851,13 +851,13 @@ Anexo C.
 <ava.png, id=176, 531.9875pt x 283.0575pt>
 File: ava.png Graphic file (type png)
  <use ava.png>
-Package pdftex.def Info: ava.png used on input line 1053.
+Package pdftex.def Info: ava.png used on input line 1044.
 (pdftex.def)             Requested size: 227.62204pt x 121.11198pt.
 
 <mvo.png, id=177, 792.9625pt x 301.125pt>
 File: mvo.png Graphic file (type png)
  <use mvo.png>
-Package pdftex.def Info: mvo.png used on input line 1063.
+Package pdftex.def Info: mvo.png used on input line 1054.
 (pdftex.def)             Requested size: 312.9803pt x 118.85347pt.
 
 +-------------------------------------------------------------------+
@@ -874,7 +874,7 @@ Here is how much of TeX's memory you used:
  8671 multiletter control sequences out of 15000+600000
  59391 words of font info for 128 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 38i,8n,41p,412b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,41p,711b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/font
 s/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
@@ -883,7 +883,7 @@ nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 re/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on tcc.pdf (52 pages, 2687422 bytes).
+Output written on tcc.pdf (52 pages, 2687281 bytes).
 PDF statistics:
  212 PDF objects out of 1000 (max. 8388607)
  139 compressed objects within 2 object streams
