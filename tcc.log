@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  22 NOV 2015 10:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  23 NOV 2015 00:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -723,17 +723,17 @@ Cap\'{\i }tulo 1.
 [11
 
 ] [12]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 222.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 223.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 222.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 223.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 222.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 222.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
  [13]
 [14]
 Cap\'{\i }tulo 2.
@@ -746,22 +746,22 @@ Cap\'{\i }tulo 3.
 ] [19] [20]
 Cap\'{\i }tulo 4.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 404.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 408.
 [21
 
-] [22] <am.png, id=80, 501.875pt x 376.40625pt>
-File: am.png Graphic file (type png)
- <use am.png>
-Package pdftex.def Info: am.png used on input line 453.
-(pdftex.def)             Requested size: 369.88582pt x 277.42776pt.
- [23 <./am.png>]
-Overfull \hbox (8.86108pt too wide) in paragraph at lines 465--467
+] [22] <dat.png, id=80, 351.3125pt x 265.99374pt>
+File: dat.png Graphic file (type png)
+ <use dat.png>
+Package pdftex.def Info: dat.png used on input line 456.
+(pdftex.def)             Requested size: 355.65944pt x 269.30501pt.
+
+Overfull \hbox (8.86108pt too wide) in paragraph at lines 467--469
 []\OT1/ptm/m/n/12 Em 1970, come[]aram a sur-gir pro-ble-mas com rela[][]ao a fi
 -lo-so-fia edu-ca-ci-o-nal da \OT1/ptm/m/it/12 Comunica[][]ao
  []
 
-
-Overfull \hbox (16.04773pt too wide) in paragraph at lines 472--474
+[23 <./dat.png>]
+Overfull \hbox (16.04773pt too wide) in paragraph at lines 474--476
 \OT1/ptm/m/n/10.95 quando da regulamenta[][]ao da L[]^^Pngua Bra-si-leira de Si
 -nais { Li-bras e do lan[]amento
  []
@@ -796,86 +796,86 @@ de, so-bre-tudo no meio es-co-lar, considera-
 
 ] (./tcc.bbl [37] [38
 
-] [39]) [40]
+] [39] [40]) [41]
 Anexo A.
-[41
+[42
 
-] <pac.png, id=143, 212.795pt x 151.56625pt>
+] <pac.png, id=147, 212.795pt x 151.56625pt>
 File: pac.png Graphic file (type png)
  <use pac.png>
-Package pdftex.def Info: pac.png used on input line 885.
+Package pdftex.def Info: pac.png used on input line 890.
 (pdftex.def)             Requested size: 128.0374pt x 91.20178pt.
- [42]
-<pan.png, id=148, 212.795pt x 153.57375pt>
+ [43]
+<pan.png, id=151, 212.795pt x 153.57375pt>
 File: pan.png Graphic file (type png)
  <use pan.png>
-Package pdftex.def Info: pan.png used on input line 897.
+Package pdftex.def Info: pan.png used on input line 903.
 (pdftex.def)             Requested size: 128.0374pt x 92.40974pt.
 
-<pam.png, id=149, 215.80624pt x 150.5625pt>
+<pam.png, id=152, 215.80624pt x 150.5625pt>
 File: pam.png Graphic file (type png)
  <use pam.png>
-Package pdftex.def Info: pam.png used on input line 909.
+Package pdftex.def Info: pam.png used on input line 916.
 (pdftex.def)             Requested size: 128.0374pt x 89.33192pt.
- [43 <./pac.png> <./pan.png>] <panp.png, id=153, 212.795pt x 152.57pt>
+ [44 <./pac.png> <./pan.png>] <panp.png, id=156, 212.795pt x 152.57pt>
 File: panp.png Graphic file (type png)
  <use panp.png>
-Package pdftex.def Info: panp.png used on input line 919.
+Package pdftex.def Info: panp.png used on input line 927.
 (pdftex.def)             Requested size: 128.0374pt x 91.80577pt.
 
-<pace.png, id=154, 549.05125pt x 546.04pt>
+<pace.png, id=157, 549.05125pt x 546.04pt>
 File: pace.png Graphic file (type png)
  <use pace.png>
-Package pdftex.def Info: pace.png used on input line 931.
+Package pdftex.def Info: pace.png used on input line 940.
 (pdftex.def)             Requested size: 142.26378pt x 141.4838pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[44 <./pam.png> <./panp.png>] [45 <./pace.png>] [46]
+[45 <./pam.png> <./panp.png>] [46 <./pace.png>] [47]
 Anexo B.
-<aa.png, id=164, 499.8675pt x 416.55624pt>
+<aa.png, id=167, 499.8675pt x 416.55624pt>
 File: aa.png Graphic file (type png)
  <use aa.png>
-Package pdftex.def Info: aa.png used on input line 988.
+Package pdftex.def Info: aa.png used on input line 998.
 (pdftex.def)             Requested size: 165.02597pt x 137.52118pt.
 
-<aa2.png, id=165, 752.8125pt x 401.5pt>
+<aa2.png, id=168, 752.8125pt x 401.5pt>
 File: aa2.png Graphic file (type png)
  <use aa2.png>
-Package pdftex.def Info: aa2.png used on input line 998.
+Package pdftex.def Info: aa2.png used on input line 1009.
 (pdftex.def)             Requested size: 270.30118pt x 144.16617pt.
- [47
+ [48
 
- <./aa.png>] [48 <./aa2.png>]
+ <./aa.png>] [49 <./aa2.png>] [50]
 Anexo C.
-<ava.png, id=173, 531.9875pt x 283.0575pt>
+<ava.png, id=180, 531.9875pt x 283.0575pt>
 File: ava.png Graphic file (type png)
  <use ava.png>
-Package pdftex.def Info: ava.png used on input line 1038.
-(pdftex.def)             Requested size: 184.9429pt x 98.40213pt.
+Package pdftex.def Info: ava.png used on input line 1050.
+(pdftex.def)             Requested size: 227.62204pt x 121.11198pt.
 
-<mvo.png, id=174, 792.9625pt x 301.125pt>
+<mvo.png, id=181, 792.9625pt x 301.125pt>
 File: mvo.png Graphic file (type png)
  <use mvo.png>
-Package pdftex.def Info: mvo.png used on input line 1047.
-(pdftex.def)             Requested size: 270.30118pt x 102.64763pt.
+Package pdftex.def Info: mvo.png used on input line 1060.
+(pdftex.def)             Requested size: 312.9803pt x 118.85347pt.
 
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-[49
+[51
 
- <./ava.png>] [50 <./mvo.png>] (./tcc.aux) ) 
+ <./ava.png>] [52 <./mvo.png>] (./tcc.aux) ) 
 Here is how much of TeX's memory you used:
- 5594 strings out of 495004
- 76848 string characters out of 6180663
- 147119 words of memory out of 5000000
- 8631 multiletter control sequences out of 15000+600000
+ 5634 strings out of 495004
+ 77264 string characters out of 6180663
+ 147546 words of memory out of 5000000
+ 8671 multiletter control sequences out of 15000+600000
  59391 words of font info for 128 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 38i,8n,41p,427b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,41p,427b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/font
 s/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
@@ -884,10 +884,10 @@ nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 re/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on tcc.pdf (51 pages, 2695163 bytes).
+Output written on tcc.pdf (53 pages, 2687615 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
+ 215 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
