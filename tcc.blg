@@ -1,32 +1,32 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2015/Arch Linux)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: tcc.aux
 The style file: abnt-alf.bst
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
 Database file #1: abnt-options.bib
 Database file #2: tcc.bib
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated glb_str_end (elt_size=8) to 20 items from 10.
 +---------------------------------------------------------+
-| Estilo bibliografico abnt-alf.bst versao 1.53           |
+| Estilo bibliografico abnt-alf.bst versao 1.52           |
 | Implementa a NBR6023, NBR10520 e NBR10523               |
 | Em caso de duvidas ou problemas com este estilo procure |
 | http://abntex.codigolivre.org.br                        |
 +---------------------------------------------------------+
 You've used 54 entries,
-            6522 wiz_defined-function locations,
+            6523 wiz_defined-function locations,
             1399 strings with 16499 characters,
-and the built_in function-call counts, 40190 in all, are:
+and the built_in function-call counts, 39787 in all, are:
 = -- 3504
 > -- 1049
 < -- 29
@@ -39,23 +39,23 @@ call.type$ -- 55
 change.case$ -- 417
 chr.to.int$ -- 71
 cite$ -- 52
-duplicate$ -- 1966
-empty$ -- 3387
+duplicate$ -- 1904
+empty$ -- 3325
 format.name$ -- 1548
-if$ -- 9802
+if$ -- 9678
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 977
+missing$ -- 946
 newline$ -- 267
 num.names$ -- 235
-pop$ -- 1276
+pop$ -- 1245
 preamble$ -- 1
 purify$ -- 182
 quote$ -- 0
-skip$ -- 2541
+skip$ -- 2510
 stack$ -- 1
 substring$ -- 1824
-swap$ -- 799
+swap$ -- 737
 text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
